@@ -1,0 +1,11 @@
+ROM_CALL(*)     CD288D 4 
+CALL_Z(*)       CD2B8D 5 
+CALL_(*)        CD2E8D 5 
+CALL_NZ(*)      CD318D 5 
+CALL_C(*)       CD378D 5 
+CALL_NC(*)      CD3D8D 5 
+JUMP_Z(*)       CD438D 5 
+JUMP_(*)        CD468D 5 
+JUMP_NZ(*)      CD498D 5 
+JUMP_C(*)       CD4F8D 5 
+JUMP_NC(*)      CD558D 5 

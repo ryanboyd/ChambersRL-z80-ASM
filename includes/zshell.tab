@@ -1,0 +1,11 @@
+rom_call_(*)    CD098C 4 
+call_z(*)       CD0C8C 5 
+call_(*)        CD0F8C 5 
+call_nz(*)      CD128C 5 
+call_c(*)       CD188C 5 
+call_nc(*)      CD1E8C 5 
+jump_z(*)       CD248C 5 
+jump_(*)        CD278C 5 
+jump_nz(*)      CD2A8C 5 
+jump_c(*)       CD308C 5 
+jump_nc(*)      CD368C 5 
